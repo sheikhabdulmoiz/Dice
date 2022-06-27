@@ -1,0 +1,13 @@
+#btn {
+    background: rgb(192, 227, 19);
+    background: linear-gradient(90deg, rgba(192, 227, 19, 1) 0%, rgba(0, 215, 255, 1) 78%);
+    border: rgb(35, 69, 82) solid 2px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top:3px;
+    padding-bottom: 3px;
+    color: rgb(145, 33, 33);
+}
+body{
+    background-color: rgb(205, 236, 237);
+}
